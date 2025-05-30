@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! 👋 I'm Lorine and this is a collection of projects made for both school and personal development. 
+
+
+
 
 <!--
 **headmistress/headmistress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
