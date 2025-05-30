@@ -1,4 +1,4 @@
-## Hi! 👋 I'm Lorine and this is a collection of projects made for both school and personal development. 
+# Hi! 👋 I'm Lorine and this is a collection of projects that were either made for school or personal learning. 
 
 
 
